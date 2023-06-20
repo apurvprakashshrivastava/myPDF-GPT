@@ -5,6 +5,11 @@ To accomplish this, the text is first transformed into a fixed-size vector using
 
 myPDF-GPT supports information sources such as PDFs and documents (Docs). This allows for a diverse range of information to be gathered and used for generating prompts and answers.
 
+### About
+* Designed using Streamlit Framework
+* ChromaDB as Database
+* OpenAi GPT-2 Model
+
 ### Steps:
 Step 1: Use the latest version from the repository: pip install -r requirements.txt
 
