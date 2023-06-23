@@ -8,7 +8,7 @@ myPDF-GPT supports information sources such as PDFs and documents (Docs). This a
 ### About
 * Designed using Streamlit Framework
 * ChromaDB as Database
-* OpenAi GPT-2 Model
+* OpenAi GPT-3 Model
 
 ### Steps:
 Step 1: Use the latest version from the repository: pip install -r requirements.txt
